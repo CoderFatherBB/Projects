@@ -1,0 +1,60 @@
+MOT Table:
+
+Mnemonic	Opcode	Size	MType
+START		  09	 0		 AD
+BC   		  0F	 0		 AD
+DS   		  0D	 0		 DL
+ADD  		  01	 2		 IS
+LTORG		  0B	 0		 AD
+STOP 		  0E	 0		 AD
+DC   		  0C	 1		 DL
+ORG  		  11	 0		 AD
+END  		  0A	 0		 AD
+MOVE 		  10	 2		 IS
+MUL  		  12	 2		 IS
+SUB  		  02	 2		 IS
+READ 		  13	 0		 AD
+
+
+
+Symbol Table:
+
+Index	Symbol	Address
+1		A    	  400
+2		B    	  404
+3		NEXT	  409
+4		S1   	  415
+5		S3   	  422
+6		C    	  434
+
+
+
+Pool Table:
+
+Index
+1		 
+3		 
+4		 
+6		 
+
+
+
+Literal Table:
+
+Index	Literal	 Address
+1		 =5 	  407
+2		 =4 	  408
+3		 =2 	  417
+4		 =25	  424
+5		 =12	  425
+6		 =1 	  434
+7		 =2 	  435
+
+
+
+Register Table:
+
+Index	Register
+1		 CREG
+2		 BREG
+3		 AREG
