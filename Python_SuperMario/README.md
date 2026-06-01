@@ -1,44 +1,25 @@
-<div align="center">
-  <h1 align="center">Python Supermario</h1>
-  <p align="center">
-    <strong>Project from the <a href="https://github.com/CoderFatherBB/Projects">Projects</a> Repository</strong>
-  </p>
-</div>
+# Python Supermario
 
----
+Part of [`Projects`](https://github.com/CoderFatherBB/Projects) at `Python_SuperMario`.
 
-## 📖 Overview
+## About
 
-Welcome to the **Python Supermario** project! This directory contains the specific source code, resources, and implementation details for this project.
+`Python Supermario` contains Python scripts and supporting assets for this project module.
 
+## Contents
 
+- `resources/`: subfolder.
+- `source/`: subfolder.
+- `main.py`: Python script.
+- `Mario Game Report - MiniGame Project.docx`: documentation artifact.
 
----
+## Use
 
-## 🚀 Getting Started
+Run the relevant Python script from this folder after checking any required inputs, datasets, or environment variables.
 
-### Prerequisites
-Make sure you have the necessary environment setup to run or build this project. Depending on the repository's technology stack, you may need:
-- Standard language compilers/interpreters (e.g., Python, C++, Java).
-- Required frameworks and libraries as per the codebase.
-
-### Running the Code
-1. Ensure you are in the project directory:
-   ```bash
-   cd "Python_SuperMario"
-   ```
-2. Execute the main scripts or compile the source code according to the language standards.
-
----
-
-## 👤 Author
+## Author
 
 **Bhavin Baldota**
 
 - LinkedIn: [Bhavin Baldota](https://www.linkedin.com/in/bhavin-baldota-103553234/)
 - GitHub: [@CoderFatherBB](https://github.com/CoderFatherBB)
-
----
-<div align="center">
-  <sub>Made with ❤️ by Bhavin Baldota</sub>
-</div>

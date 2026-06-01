@@ -1,44 +1,30 @@
-<div align="center">
-  <h1 align="center">Java Atm Project</h1>
-  <p align="center">
-    <strong>Project from the <a href="https://github.com/CoderFatherBB/Projects">Projects</a> Repository</strong>
-  </p>
-</div>
+# Java Atm Project
 
----
+Part of [`Projects`](https://github.com/CoderFatherBB/Projects) at `JAVA_ATM_Project`.
 
-## 📖 Overview
+## About
 
-Welcome to the **Java Atm Project** project! This directory contains the specific source code, resources, and implementation details for this project.
+`Java Atm Project` documents the files and subfolders for this part of the `Projects` repository.
 
+## Contents
 
+- `.idea/`: subfolder.
+- `ATM-Simulator-System-master/`: subfolder.
+- `icons/`: subfolder.
+- `out/`: subfolder.
+- `Project File/`: subfolder.
+- `ATM Project.iml`: project file.
+- `database file.txt`: data or support artifact.
+- `jcalendar-tz-1.3.3-4.jar`: project file.
+- `mysql-connector-java-8.0.28.jar`: project file.
 
----
+## Use
 
-## 🚀 Getting Started
+Open the files in this folder directly, or use them from the parent project as supporting resources.
 
-### Prerequisites
-Make sure you have the necessary environment setup to run or build this project. Depending on the repository's technology stack, you may need:
-- Standard language compilers/interpreters (e.g., Python, C++, Java).
-- Required frameworks and libraries as per the codebase.
-
-### Running the Code
-1. Ensure you are in the project directory:
-   ```bash
-   cd "JAVA_ATM_Project"
-   ```
-2. Execute the main scripts or compile the source code according to the language standards.
-
----
-
-## 👤 Author
+## Author
 
 **Bhavin Baldota**
 
 - LinkedIn: [Bhavin Baldota](https://www.linkedin.com/in/bhavin-baldota-103553234/)
 - GitHub: [@CoderFatherBB](https://github.com/CoderFatherBB)
-
----
-<div align="center">
-  <sub>Made with ❤️ by Bhavin Baldota</sub>
-</div>

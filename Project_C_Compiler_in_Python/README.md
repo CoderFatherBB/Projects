@@ -1,44 +1,38 @@
-<div align="center">
-  <h1 align="center">Project C Compiler In Python</h1>
-  <p align="center">
-    <strong>Project from the <a href="https://github.com/CoderFatherBB/Projects">Projects</a> Repository</strong>
-  </p>
-</div>
+# Project C Compiler In Python
 
----
+Part of [`Projects`](https://github.com/CoderFatherBB/Projects) at `Project_C_Compiler_in_Python`.
 
-## 📖 Overview
+## About
 
-Welcome to the **Project C Compiler In Python** project! This directory contains the specific source code, resources, and implementation details for this project.
+`Project C Compiler In Python` contains notebook-based experiments and supporting files for this part of `Projects`.
 
+## Contents
 
+- `datatype.txt`: data or support artifact.
+- `functions.txt`: data or support artifact.
+- `GUI_inte.py`: Python script.
+- `GUI_try.py`: Python script.
+- `header.txt`: data or support artifact.
+- `input.c`: C/C++ source file.
+- `input.exe`: project file.
+- `input.obj`: project file.
+- `Phase 1 - SP.pdf`: documentation artifact.
+- `Phase 2 - SP.pdf`: documentation artifact.
+- `Phase 3 - SP.pdf`: documentation artifact.
+- `Phase 3.pdf`: documentation artifact.
+- `symbol_table.txt`: data or support artifact.
+- `tp.py`: Python script.
+- `try.ipynb`: Jupyter notebook.
+- `try.py`: Python script.
+- `type.txt`: data or support artifact.
 
----
+## Use
 
-## 🚀 Getting Started
+Open the notebooks in Jupyter, VS Code, or Google Colab and run the cells in order after installing the required Python packages.
 
-### Prerequisites
-Make sure you have the necessary environment setup to run or build this project. Depending on the repository's technology stack, you may need:
-- Standard language compilers/interpreters (e.g., Python, C++, Java).
-- Required frameworks and libraries as per the codebase.
-
-### Running the Code
-1. Ensure you are in the project directory:
-   ```bash
-   cd "Project_C_Compiler_in_Python"
-   ```
-2. Execute the main scripts or compile the source code according to the language standards.
-
----
-
-## 👤 Author
+## Author
 
 **Bhavin Baldota**
 
 - LinkedIn: [Bhavin Baldota](https://www.linkedin.com/in/bhavin-baldota-103553234/)
 - GitHub: [@CoderFatherBB](https://github.com/CoderFatherBB)
-
----
-<div align="center">
-  <sub>Made with ❤️ by Bhavin Baldota</sub>
-</div>
